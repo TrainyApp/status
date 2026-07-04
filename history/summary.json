@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/untitled2.trainy.app.ico",
     "slug": "untitled2-realtime-data-in-germany",
     "status": "down",
-    "uptime": "1.26%",
-    "uptimeDay": "1.26%",
-    "uptimeWeek": "1.26%",
-    "uptimeMonth": "1.26%",
-    "uptimeYear": "1.26%",
+    "uptime": "0.57%",
+    "uptimeDay": "0.57%",
+    "uptimeWeek": "0.57%",
+    "uptimeMonth": "0.57%",
+    "uptimeYear": "0.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 18
+      "2026-07-04": 39
     }
   },
   {
@@ -96,7 +96,7 @@
     "url": "https://emqx-prod-nlb-ext.trainy.app/mqtt",
     "icon": "https://icons.duckduckgo.com/ip3/emqx-prod-nlb-ext.trainy.app.ico",
     "slug": "vehicle-status-mqtt-server-trains-in-germany-and-city-transport-in-hamburg-and-munich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
