@@ -40,19 +40,19 @@
     "url": "https://untitled2.trainy.app/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/untitled2.trainy.app.ico",
     "slug": "untitled2-realtime-data-in-germany",
-    "status": "down",
-    "uptime": "0.57%",
-    "uptimeDay": "0.57%",
-    "uptimeWeek": "0.57%",
-    "uptimeMonth": "0.57%",
-    "uptimeYear": "0.57%",
+    "status": "up",
+    "uptime": "20.36%",
+    "uptimeDay": "20.36%",
+    "uptimeWeek": "20.36%",
+    "uptimeMonth": "20.36%",
+    "uptimeYear": "20.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-04": 39
+      "2026-07-04": 78
     }
   },
   {
@@ -96,7 +96,7 @@
     "url": "https://emqx-prod-nlb-ext.trainy.app/mqtt",
     "icon": "https://icons.duckduckgo.com/ip3/emqx-prod-nlb-ext.trainy.app.ico",
     "slug": "vehicle-status-mqtt-server-trains-in-germany-and-city-transport-in-hamburg-and-munich",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
