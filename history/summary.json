@@ -40,12 +40,12 @@
     "url": "https://untitled2.trainy.app/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/untitled2.trainy.app.ico",
     "slug": "untitled2-realtime-data-in-germany",
-    "status": "down",
-    "uptime": "98.86%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "98.86%",
+    "status": "up",
+    "uptime": "98.09%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "98.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -53,7 +53,7 @@
     "timeYear": 0,
     "dailyMinutesDown": {
       "2026-07-04": 78,
-      "2026-07-09": 0
+      "2026-07-09": 53
     }
   },
   {
