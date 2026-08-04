@@ -97,7 +97,7 @@
     "url": "https://emqx-prod-nlb-ext.trainy.app/mqtt",
     "icon": "https://icons.duckduckgo.com/ip3/emqx-prod-nlb-ext.trainy.app.ico",
     "slug": "vehicle-status-mqtt-server-trains-in-germany-and-city-transport-in-hamburg-and-munich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
