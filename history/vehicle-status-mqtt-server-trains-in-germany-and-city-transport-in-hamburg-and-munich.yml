@@ -1,7 +1,7 @@
 url: https://emqx-prod-nlb-ext.trainy.app/mqtt
-status: up
-code: 400
-responseTime: 413
-lastUpdated: 2026-08-14T23:25:07.799Z
+status: down
+code: 503
+responseTime: 1274
+lastUpdated: 2026-08-15T14:05:38.815Z
 startTime: 2026-07-04T21:04:48.133Z
 generator: Upptime <https://github.com/upptime/upptime>
