@@ -97,17 +97,17 @@
     "url": "https://emqx-prod-nlb-ext.trainy.app/mqtt",
     "icon": "https://icons.duckduckgo.com/ip3/emqx-prod-nlb-ext.trainy.app.ico",
     "slug": "vehicle-status-mqtt-server-trains-in-germany-and-city-transport-in-hamburg-and-munich",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1267,
-    "timeDay": 548,
-    "timeWeek": 1119,
-    "timeMonth": 1237,
-    "timeYear": 1267,
+    "time": 1264,
+    "timeDay": 626,
+    "timeWeek": 1082,
+    "timeMonth": 1226,
+    "timeYear": 1264,
     "dailyMinutesDown": {}
   }
 ]
