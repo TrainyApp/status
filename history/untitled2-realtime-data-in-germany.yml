@@ -1,7 +1,7 @@
 url: https://untitled2.trainy.app/healthz
-status: down
-code: 503
-responseTime: 350
-lastUpdated: 2026-10-29T18:46:28.957Z
+status: up
+code: 200
+responseTime: 1189
+lastUpdated: 2026-10-29T23:00:28.630Z
 startTime: 2026-07-04T21:04:28.635Z
 generator: Upptime <https://github.com/upptime/upptime>
