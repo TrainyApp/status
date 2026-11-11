@@ -1,7 +1,7 @@
 url: https://emqx-prod-nlb-ext.trainy.app/mqtt
 status: up
 code: 400
-responseTime: 1272
-lastUpdated: 2026-11-10T04:31:24.836Z
+responseTime: 751
+lastUpdated: 2026-11-11T02:37:30.601Z
 startTime: 2026-07-04T21:04:48.133Z
 generator: Upptime <https://github.com/upptime/upptime>
